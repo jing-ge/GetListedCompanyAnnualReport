@@ -10,9 +10,10 @@ filename format -----   companycode + filename.pdf
 python request.py
 
 ### Requirement
-json
+python == 3.8.3
+
+json == 0.9.5
+
+requests == 2.24.0
 
 re
-
-requests
-
